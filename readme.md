@@ -82,5 +82,5 @@ The revived and improved version with new features and optimizations.
 </div>
 
 <div align="center">
-  <sub>Last updated: 2024</sub>
+  <sub>Last updated: 2025</sub>
 </div>
