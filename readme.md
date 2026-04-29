@@ -18,13 +18,13 @@
 
 ## Current Projects
 
-### DeltaX
-A cutting-edge project focused on innovative solutions.
+### FaultLine
+idk
+
+## Previous Projects
 
 ### Confort Chat
 A communication platform designed for comfort and ease of use.
-
-## Previous Projects
 
 ### Terraform: New Dawn
 The original version of my Terraform project.
@@ -33,6 +33,7 @@ The original version of my Terraform project.
 The revived and improved version with new features and optimizations.
 
 ## Tech Stack
+thats all i know 
 
 ### Programming Languages
 <div align="left">
