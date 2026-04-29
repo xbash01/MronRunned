@@ -139,5 +139,5 @@ thats all i know
 </div>
 
 <div align="center">
-  <sub>Last updated: 2025</sub>
+  <sub>Last updated: 2026</sub>
 </div>
