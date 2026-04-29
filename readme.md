@@ -19,7 +19,8 @@
 ## Current Projects
 
 ### FaultLine
-idk
+t.me/playfaultline
+its a future AAA shooter, ig
 
 ## Previous Projects
 
